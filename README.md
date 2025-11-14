@@ -1,8 +1,8 @@
-2048 Game
+# 2048 Game
 
 This is a JavaScript implementation of the classic 2048 game. The game logic is encapsulated in a Game class and interacts with a simple HTML/CSS UI. The player can move tiles using keyboard arrows, merge identical numbers, and aim to reach the 2048 tile.
 
-Features:
+## Features:
 
 - 4×4 game board
 
@@ -24,7 +24,7 @@ Features:
 
 - Restart button resets the game to its initial state
 
-Technologies:
+## Technologies:
 
 - HTML5
 
@@ -34,7 +34,7 @@ Technologies:
 
 - Module-based project structure
 
-Project Structure:
+## Project Structure:
 ```
 src/
 ├─ modules/
@@ -46,7 +46,7 @@ src/
    └─ main.css        # Game styles
 ```
 
-Required Game Class Methods:
+## Required Game Class Methods:
 
 - constructor(initialState?) – initializes the board; initialState is optional
 
@@ -62,7 +62,7 @@ Required Game Class Methods:
 
 - restart() – resets the game to the initial state
 
-How to Run Locally:
+## How to Run Locally:
 
 Clone the repository:
 ```
