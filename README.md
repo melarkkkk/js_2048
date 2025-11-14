@@ -75,14 +75,13 @@ Navigate to the project folder:
 ```
 cd 2048-game
 ```
-Start the project
-```
-npm start
-```
 
 Install dependencies (if using npm for testing):
 ```
 npm install
 ```
 
-Open index.html in a browser to play the game.
+Start the project
+```
+npm start
+```
