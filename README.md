@@ -2,6 +2,8 @@
 
 This is a JavaScript implementation of the classic 2048 game. The game logic is encapsulated in a Game class and interacts with a simple HTML/CSS UI. The player can move tiles using keyboard arrows, merge identical numbers, and aim to reach the 2048 tile.
 
+- [DEMO LINK](https://melarkkkk.github.io/js_2048/)
+
 ## Features:
 
 - 4×4 game board
@@ -80,5 +82,3 @@ npm install
 ```
 
 Open index.html in a browser to play the game.
-
-- [DEMO LINK](https://melarkkkk.github.io/js_2048/)
